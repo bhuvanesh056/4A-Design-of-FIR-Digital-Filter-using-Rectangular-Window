@@ -18,6 +18,7 @@ PC installed with SCILAB.
 <img width="762" height="717" alt="image" src="https://github.com/user-attachments/assets/1e6cf454-fd90-4f75-9d4d-5a9bbfc4e01e" />
 
 
+
 # RESULT: 
 
 Thus design of low pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
